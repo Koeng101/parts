@@ -3,3 +3,13 @@
   publisher: "ACS Synth. Biol"
   publication_date: "April 14, 2015"
   file: ytk.pdf
+"https://doi.org/10.1038/s41598-017-15107-z":
+  title: "The Bacillus BioBrick Box: generation and evaluation of essential genetic building blocks for standardized work with Bacillus subtilis"
+  publisher: "Journal of Biological Engineering"
+  publication_date: "December 02, 2013"
+  file: bacillusbox.pdf
+"https://doi.org/10.1021/acssynbio.1c00130":
+  title: "The ProUSER2.0 Toolbox: Genetic Parts and Highly Customizable Plasmids for Synthetic Biology in Bacillus subtilis"
+  publisher: "ACS Synth. Biol"
+  publication_date: "November 18, 2021"
+  file: prouser2.pdf

@@ -1,9 +1,9 @@
-"Yeast toolkit":
+"Yeast_toolkit":
   file: collections/yeast_toolkit.yaml
   description: Something here
   references: ["https://doi.org/10.1021/sb500366v"]
   tags: [yeast]
-"Bacillus subtilis toolkit":
+"Bacillus_subtilis_toolkit":
   file: collections/bsub.yaml
   description: Something here
   references: ["https://doi.org/10.1038/s41598-017-15107-z", "https://doi.org/10.1021/acssynbio.1c00130"]

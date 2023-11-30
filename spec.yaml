@@ -1,0 +1,78 @@
+openapi: 3.0.0
+info:
+  title: Toolkit API
+  version: 1.0.0
+  description: API to access combined toolkit information
+paths:
+  /api/toolkit.json:
+    get:
+      summary: Get combined toolkit information
+      responses:
+        '200':
+          description: Successful response
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  parts:
+                    type: object
+                    additionalProperties:
+                      $ref: '#/components/schemas/Part'
+                  collections:
+                    type: object
+                    additionalProperties:
+                      $ref: '#/components/schemas/Collection'
+                  references:
+                    type: object
+                    additionalProperties:
+                      $ref: '#/components/schemas/Reference'
+components:
+  schemas:
+    Part:
+      type: object
+      properties:
+        collection:
+          type: string
+        description:
+          type: string
+        prefix:
+          type: string
+        suffix:
+          type: string
+        tags:
+          type: array
+          items:
+            type: string
+        sequence:
+          type: string
+      additionalProperties: false
+    Collection:
+      type: object
+      properties:
+        description:
+          type: string
+        parts:
+          type: array
+          items:
+            type: string
+        references:
+          type: array
+          items:
+            type: string
+        tags:
+          type: array
+          items:
+            type: string
+      additionalProperties: false
+    Reference:
+      type: object
+      properties:
+        title:
+          type: string
+        publisher:
+          type: string
+        publication_date:
+          type: string
+      additionalProperties: false
+

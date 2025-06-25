@@ -1,0 +1,8 @@
+---
+name: Pichia_Bxb1
+creator: keoni
+description: placeholder
+prefix: GTCT
+suffix: AAGC
+sequence: tggccgtggccgtgctcgtcctcgtcggccggcttgtcgacgacggcggtcaccgtcgtcaggatcatccgggccacaagcttgctgacagaagcctcaagaaaaaaaaaattcttcttcgactatgctggaggcagagatgatcgagccggtagttaactatatatagctaaattggttccatcac
+---

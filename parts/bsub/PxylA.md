@@ -1,0 +1,8 @@
+---
+name: PxylA
+creator: keoni
+description: Bacillus subtilis xylose inducible promoter
+prefix: TACA
+suffix: AACT
+sequence: aaggccaaaaaactgctgccttcggatcagcgatatccacttcatccactccatttgtttaatctttaaattaagtatcaacatagtacatagcgaatcttccctttattatatctaatgtgttcataaaaaactaaaaaaaatattgaaaatactgacgaggttatataagatgaaaataagttagtttgtttaaacaacaaactaataggtgatgtacttactatatgaaataaaatgcatctgggatcccaagcttatcgaa
+---

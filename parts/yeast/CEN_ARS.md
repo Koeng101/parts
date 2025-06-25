@@ -1,0 +1,10 @@
+---
+name: CEN_ARS
+creator: keoni
+description: S. cerevisiae centromere and autonomously replicating sequence
+prefix: GTCT
+suffix: AAGC
+sequence: atcacgtgctataaaaataattataatttaaattttttaatataaatatataaattaaaaatagaaagtaaaaaaagaaattaaagaaaaaatagtttttgttttccgaagatgtaaaagactctagggggatcgccaacaaatactaccttttatcttgctcttcctgctctcaggtattaatgccgaattgtttcatcttgtctgtgtagaaaaccacacacgaaaatcctgtgattttacattttacttatcgttaatcgaatgtatatctatttaatctgcttttcttgtctaataaatatatatgtaaagtacgctttttgttgaaattttttaaacctttgtttatttttttttcttcattccgtaactcttctaccttctttatttactttctaaaatccaaatacaaaacataaaaataaataaacacagagtaaattcccaaattattccatcattaaaagatacgaggcgcgtgtaagttacaggcaagcgatccgtc
+---
+
+Composite element containing both a centromere (CEN) and autonomously replicating sequence (ARS) from S. cerevisiae. Enables low-copy plasmid maintenance at 1-2 copies per cell with mitotic stability.

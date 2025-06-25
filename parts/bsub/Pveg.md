@@ -1,0 +1,8 @@
+---
+name: Pveg
+creator: keoni
+description: Very strong constitutive promoter
+prefix: TACA
+suffix: AACT
+sequence: ggagttctgagaattggtatgccttataagtccaattaacagttgaaaacctgcataggagagctatgcgggttttttattttacataatgatacataatttaccgaaacttgcggaacataattgaggaatcatagaattttgtcaaaataattttattgacaacgtcttattaacgttgatataatttaaattttatttgacaaaaatgggctcgtgttgtacaataaatgtagt
+---

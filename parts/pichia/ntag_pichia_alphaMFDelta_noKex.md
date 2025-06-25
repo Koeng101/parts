@@ -1,0 +1,8 @@
+---
+name: ntag_pichia_alphaMFDelta_noKex
+creator: keoni
+description: placeholder
+prefix: AACT
+suffix: AATG
+sequence: atgagattcccatcaatttttactgctgttctgttcgccgcttctagtgcacttgccatgagatttcctagtattttcactgctgtgctatttgccgctagttccgctctagctgctccagttaatactactactgaagatgaattggagggtgacttcgatgttgctgttctgcctttttccgcttctatcacagccaaggaagaaggtgtatctctagagaagcgtgg
+---

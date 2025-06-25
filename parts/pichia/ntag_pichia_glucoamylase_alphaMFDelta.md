@@ -1,0 +1,8 @@
+---
+name: ntag_pichia_glucoamylase_alphaMFDelta
+creator: keoni
+description: placeholder
+prefix: AACT
+suffix: AATG
+sequence: atgtctttcagatccctattggcattgtcagggttggtctgttctggattggctatgagatttcctagtattttcactgctgtgctatttgccgctagttccgctctagctgctccagttaatactactactgaagatgaattggagggtgacttcgatgttgctgttctgcctttttccgcttctatcgcagccaaggaagaaggtgtatctctagagaagcgtgg
+---

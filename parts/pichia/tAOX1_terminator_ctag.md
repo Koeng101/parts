@@ -1,0 +1,8 @@
+---
+name: tAOX1_terminator_ctag
+creator: keoni
+description: placeholder
+prefix: ATGT
+suffix: CGCT
+sequence: tcaagaggatgtcagaatgccatttgcctgagagatgcaggcttcatttttgatacttttttatttgtaacctatatagtataggattttttttgtcattttgtttcttctcgtacgagcttgctcctgatcagcctatctcgcagctgatgaatatcttgtggtaggggtttgggaaaatcattcgagtttgatgtttttcttggtatttcccactcctcttcagagtacagaagattaagtgaga
+---

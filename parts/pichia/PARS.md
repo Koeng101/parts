@@ -1,0 +1,8 @@
+---
+name: PARS
+creator: keoni
+description: placeholder
+prefix: GTCT
+suffix: AAGC
+sequence: cgataagctgggggaacattcgcgaaaatgaaacaagtcggctgttatagtatatttattataatattgaaagatctcaaaagactacttatttttgaatgaaccaagtatgaaatcaacctatttggggttgaccaaaataagtaaatattaattggatccgcacaaacgaagg
+---

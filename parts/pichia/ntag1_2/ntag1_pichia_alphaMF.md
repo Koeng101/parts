@@ -1,0 +1,8 @@
+---
+name: ntag1_pichia_alphaMF
+creator: keoni
+description: placeholder
+prefix: AACT
+suffix: GGAAGC
+sequence: atgagatttccttcaatttttactgctgttttattcgcagcatcctccgcattagctgctccagtcaacactacaacagaagatgaaacggcacaaattccggctgaagctgtcatcggttactcagatttagaaggggatttcgatgttgctgttttgccattttccaacagcacaaataacgggttattgtttataaatactactattgccagcattgctgctaaagaagaaggggtatctctcgagaaaagagaggctgaagct
+---

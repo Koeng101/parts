@@ -2,7 +2,7 @@
 name: PARS
 creator: keoni
 description: placeholder
-prefix: GTCT
-suffix: AAGC
+prefix: ACTC
+suffix: ATGT
 sequence: cgataagctgggggaacattcgcgaaaatgaaacaagtcggctgttatagtatatttattataatattgaaagatctcaaaagactacttatttttgaatgaaccaagtatgaaatcaacctatttggggttgaccaaaataagtaaatattaattggatccgcacaaacgaagg
 ---
